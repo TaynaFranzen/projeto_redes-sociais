@@ -37,7 +37,7 @@ iframe#tela{
     top:80px;
     left:22px;
     height:471px;
-    width:269px;
+    width:268px;
 }
 
 section#logos img{
@@ -55,5 +55,5 @@ section#logos img:hover{
     border: 2px solid rgb(196, 193, 193);
     transform:translate(-3px, -3px);
     box-shadow: 5px 5px 8px black;
-    trans;
+    transition: 0.3s;
 }
